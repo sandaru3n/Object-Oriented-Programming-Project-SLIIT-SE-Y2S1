@@ -7,8 +7,8 @@ Module : OOP (IT2030)
 
 Group Members :
 
-Sandaru Peiris
-Thamidu Peiris
-Chiran Jalitha
+Sandaru Peiris ||
+Thamidu Peiris ||
+Chiran Jalitha ||
 Dilshan Nadeeranga
 
